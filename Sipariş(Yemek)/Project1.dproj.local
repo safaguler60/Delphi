@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.281,C:\Users\SafaGüler\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\SafaGüler\Documents\Embarcadero\Studio\Projects\Sipariş(Yemek)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,=C:\Users\SafaGüler\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,C:\Users\SafaGüler\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\SafaGüler\Documents\Embarcadero\Studio\Projects\Sipariş(Yemek)\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,C:\Users\SafaGüler\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\SafaGüler\Documents\Embarcadero\Studio\Projects\Sipariş(Yemek)\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
